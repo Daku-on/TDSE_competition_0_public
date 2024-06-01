@@ -1,0 +1,2 @@
+# TDSE_competition_0_public
+第0回TDSE inclassコンペティション用公開レポジトリ
